@@ -1,0 +1,1 @@
+Data is extracted using Selenium 3.141.59 and ChromeDriver 91.0.4472.101
