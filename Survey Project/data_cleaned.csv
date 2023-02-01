@@ -1,0 +1,793 @@
+gender,mother_tongue,mother_tongue_rating,no_of_fluent_languages,educational_qualification,state,resided_in_the_same_city_from_birth,teaching_language_preference,notes_language_preference,questionpaper_language_preference,learning_in_local_language,exam_in_regional_language,teaching_in_regional_language,knowledge_improvement
+Female,Tamil,Excellent,5.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Maybe,No,Yes,Yes
+Female,Hindi,Good,1.0,Undergraduate,Uttar pradesh,No,Hybrid Language,English Language,Hybrid Language,Maybe,No,Maybe,No
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,No,Yes,No
+Male,Kannada,Excellent,3.0,After undergraduation,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,Yes
+Female,Telugu,Excellent,2.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Yes
+Male,Telugu,Very Good,2.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Maybe,Maybe,Yes,Maybe
+Male,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,"Telugu, english",Excellent,2.0,Undergraduate,Andhra pradesh,No,Regional Language,Regional Language,English Language,No,Yes,Yes,No
+Male,Telugu,Excellent,2.0,Undergraduate,Telangana,No,English Language,English Language,English Language,Yes,Yes,Maybe,No
+Male,Telugu,Very Good,2.0,Undergraduate,Other,Yes,English Language,English Language,English Language,Yes,Yes,No,Maybe
+Female,Kannada,Excellent,4.0,After undergraduation,Karnataka,Yes,English Language,English Language,English Language,Yes,No,Maybe,Yes
+Female,Telugu,Excellent,1.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,Hybrid Language,English Language,Yes,Yes,Yes,No
+Male,Kannada,Poor,4.0,Undergraduate,Karnataka,No,Regional Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,No,English Language,English Language,English Language,Yes,Yes,Yes,Maybe
+Male,Telugu,Excellent,3.0,After undergraduation,Other,No,Hybrid Language,English Language,English Language,Yes,No,Yes,No
+Female,Telugu,Very Good,4.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,No,Yes
+Male,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Female,Kannada,Very Good,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,Yes
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,Yes,Maybe,Maybe
+Male,Tamil,Excellent,2.0,Undergraduate,Tamil nadu,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,No
+Male,Telugu,Excellent,3.0,Below undergraduation,Other,No,English Language,English Language,English Language,,No,Yes,No
+Male,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Regional Language,English Language,English Language,Yes,Maybe,Yes,No
+Male,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Yes,No
+Male,Hindi,Excellent,4.0,Undergraduate,Andhra pradesh,No,Regional Language,English Language,Hybrid Language,Yes,Maybe,Yes,No
+Male,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,,Maybe,Maybe,Maybe
+Female,Kannada,Good,3.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,,No,No,Maybe
+Male,Telugu,Excellent,3.0,After undergraduation,Andhra pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Maybe
+Male,Telugu,Excellent,2.0,After undergraduation,Andhra pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Maybe
+Male,Kannada,Very Good,3.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,Hybrid Language,Yes,Maybe,No,No
+Male,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,,No,Yes,Yes
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,English Language,Yes,No,Maybe,No
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,No,Yes
+Female,Tulu,Very Good,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Yes
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,,Maybe,No,No
+Male,Telugu,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Yes,No
+Male,Konkani,Excellent,3.0,After undergraduation,Karnataka,No,Hybrid Language,Hybrid Language,English Language,,No,Maybe,No
+Male,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Yes,No
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Yes,Maybe,No,Yes
+Female,Telugu,Good,3.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,English Language,Yes,No,Maybe,Maybe
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,Regional Language,English Language,English Language,Yes,No,Yes,Yes
+Male,Telugu,Good,3.0,Undergraduate,Telangana,No,English Language,English Language,English Language,Yes,Maybe,Yes,Maybe
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,Regional Language,Regional Language,Regional Language,,Maybe,Yes,Yes
+Male,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,Hybrid Language,No,No,No,Maybe
+Male,Kannada,Excellent,5.0,Undergraduate,Other,Yes,Regional Language,Hybrid Language,English Language,Yes,Maybe,Maybe,No
+Female,Kannada,Excellent,2.0,Below undergraduation,Karnataka,No,Hybrid Language,Hybrid Language,English Language,Yes,Yes,Yes,No
+Male,Kannada,Very Good,2.0,Undergraduate,Other,Yes,Regional Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Yes,No,No,Yes
+Female,Telugu,Excellent,2.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,No,No,No,Yes
+Female,Kannada,Very Good,3.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,,Maybe,No,Maybe
+Male,Telugu,Excellent,2.0,Below undergraduation,Uttar pradesh,No,,,,No,Maybe,Maybe,Maybe
+Male,Telugu,Excellent,2.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Maybe
+Female,Telugu,Excellent,2.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Yes,Yes,Maybe,Maybe
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,No
+Male,Telugu,Very Good,3.0,Undergraduate,Other,No,English Language,English Language,English Language,No,No,No,Yes
+Male,Kannada,Good,3.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,No,No
+Female,Telugu,Very Good,2.0,Below undergraduation,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Maybe,No,No,Yes
+Male,Hindi,Excellent,2.0,Undergraduate,Uttar pradesh,Yes,English Language,Hybrid Language,English Language,Yes,No,No,Yes
+Female,Kannada,Very Good,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Female,Telugu,Very Good,2.0,Undergraduate,Andhra pradesh,No,Hybrid Language,English Language,English Language,Maybe,No,No,Maybe
+Male,Kannada,Excellent,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,,No,No,Yes
+Male,Telugu,Excellent,4.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,Yes,Maybe,No
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,Maybe,No,No
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Yes,Yes,Maybe,No
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Regional Language,Yes,Yes,Yes,Maybe
+Male,Kannada,Very Good,2.0,Below undergraduation,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,Yes,Maybe
+Male,Kannada,Excellent,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,Yes,Yes
+Male,Telugu,Excellent,2.0,Below undergraduation,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,No,Yes,No
+Male,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Regional Language,Hybrid Language,English Language,Yes,No,Yes,Yes
+Male,Hindi,Excellent,3.0,Undergraduate,Other,No,Hybrid Language,Hybrid Language,English Language,Yes,No,Maybe,Yes
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,Maybe,No
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,No,No
+Female,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Telugu,Excellent,5.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,Yes,Yes,Yes
+Female,Telugu,Excellent,1.0,After undergraduation,Telangana,Yes,English Language,English Language,English Language,Yes,Maybe,Yes,Maybe
+Male,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Maybe,Maybe,Maybe,Maybe
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,No,No,Maybe,No
+Male,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,No
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Maybe,No
+Female,Telugu,Excellent,3.0,Below undergraduation,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,No,Regional Language,English Language,English Language,Yes,Yes,Yes,Yes
+Male,Telugu,Very Good,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Maybe,Maybe
+Male,Hindi,Excellent,2.0,Undergraduate,Uttar pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,No,No
+Female,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Kannada,Very Good,2.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,Hybrid Language,Yes,No,No,No
+Male,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,No,No,Maybe,Maybe
+Male,Telugu,Good,4.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,Yes,No,No,Yes
+Male,Telugu,Very Good,4.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,English Language,Yes,No,No,Yes
+Male,Telugu,Good,2.0,After undergraduation,Telangana,No,Regional Language,Hybrid Language,Hybrid Language,Yes,No,Maybe,Maybe
+Prefer not to say,Telugu,Very Good,3.0,After undergraduation,Karnataka,Yes,Hybrid Language,Hybrid Language,English Language,,Maybe,No,No
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,,Maybe,Maybe,Maybe
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,No,Hybrid Language,Hybrid Language,Hybrid Language,Maybe,Yes,Yes,Maybe
+Male,Kannada,Excellent,4.0,Undergraduate,Karnataka,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Maybe,Maybe
+Male,Telugu,Good,4.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,No,No
+Female,Hindi,Excellent,3.0,Undergraduate,Telangana,No,English Language,English Language,English Language,No,No,Maybe,No
+Male,Kannada,Very Good,5.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Yes,No
+Female,Telugu,Excellent,4.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,No,No,No,Yes
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,Yes,Yes,Yes,No
+Female,Telugu,Excellent,1.0,Below undergraduation,Andhra pradesh,No,English Language,Hybrid Language,Hybrid Language,Maybe,Yes,Yes,No
+Male,Kannada,Excellent,3.0,After undergraduation,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,,Maybe,Maybe,Maybe
+Male,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,No,No,Yes,No
+Female,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,No,Maybe,Maybe
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,Yes,No,No
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,No,No,Yes,No
+Male,Telugu,Very Good,4.0,Undergraduate,Telangana,No,Hybrid Language,English Language,English Language,Yes,No,Yes,No
+Male,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,No
+Male,Telugu,Good,3.0,After undergraduation,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,No,No,No
+Male,Telugu,Very Good,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,Maybe
+Female,Telugu,Good,2.0,After undergraduation,Andhra pradesh,No,English Language,English Language,English Language,Maybe,No,Yes,No
+Female,Tamil,Excellent,4.0,Undergraduate,Other,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Male,Telugu,Very Good,4.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,No,No,Maybe
+Male,Telugu,Excellent,3.0,After undergraduation,Telangana,Yes,English Language,English Language,English Language,Yes,No,No,Yes
+Male,Telugu,Excellent,4.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,No
+Male,Telugu,Excellent,3.0,Undergraduate,Other,No,English Language,English Language,English Language,Yes,No,Yes,No
+Male,Telugu,Excellent,3.0,After undergraduation,Nan,No,Hybrid Language,English Language,English Language,Yes,No,Maybe,Maybe
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,No,No
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Maybe,Yes,No
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,Maybe
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Female,Hindi,Excellent,3.0,Undergraduate,Uttar pradesh,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Yes,Maybe
+Male,Telugu,Excellent,1.0,After undergraduation,Telangana,No,Hybrid Language,Hybrid Language,English Language,No,No,No,Yes
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,Yes,Maybe,Maybe
+Female,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Female,"Telugu,tamil",Fair,4.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,Yes,No,Yes,No
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Yes,No,Yes,Yes
+Female,Telugu,Excellent,2.0,Below undergraduation,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Male,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,Yes
+Female,Bengali,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,No,No,No,Yes
+Male,Hindi,Excellent,2.0,Undergraduate,Uttar pradesh,No,English Language,English Language,English Language,Yes,Yes,No,No
+Female,Kannada,Very Good,4.0,Undergraduate,Karnataka,Yes,English Language,English Language,Regional Language,Yes,Yes,Yes,No
+Male,Telugu,Excellent,1.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,No,No,No,No
+Female,Hindi,Excellent,2.0,Undergraduate,Uttar pradesh,Yes,Hybrid Language,English Language,English Language,Maybe,No,Maybe,Yes
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Malayalam,Good,4.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,No,Yes
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Regional Language,Hybrid Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Marathi,Excellent,6.0,After undergraduation,Karnataka,Yes,English Language,English Language,English Language,Yes,No,Yes,No
+Female,Tamil,Very Good,4.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,Maybe,Maybe,Yes
+Female,Telugu,Good,2.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,No,No,No
+Female,Telugu,Excellent,3.0,Below undergraduation,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,No
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,No
+Male,Kannada,Very Good,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,,No,No,No
+Male,Kannada,Fair,2.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Male,Telugu,Excellent,3.0,After undergraduation,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Male,Hindi,Very Good,3.0,Undergraduate,Uttar pradesh,No,Hybrid Language,English Language,English Language,Yes,No,Maybe,Maybe
+Female,Telugu,Very Good,2.0,Nan,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,No
+Male,Hindi,Excellent,5.0,After undergraduation,Karnataka,No,Hybrid Language,Hybrid Language,English Language,Yes,Yes,No,No
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,Maybe,No
+Female,Kannada,Excellent,4.0,Nan,Karnataka,No,English Language,English Language,English Language,Yes,Maybe,Maybe,Maybe
+Male,Kannada,Poor,5.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,,Yes,Yes,No
+Male,Telugu,Very Good,3.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Male,Hindi,Excellent,3.0,Undergraduate,Uttar pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,No
+Female,Kannada,Very Good,2.0,After undergraduation,Karnataka,No,Hybrid Language,English Language,English Language,,Yes,Maybe,Maybe
+Male,Telugu,Excellent,3.0,After undergraduation,Telangana,No,Regional Language,English Language,English Language,Yes,No,No,No
+Female,Telugu,Very Good,2.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Female,Kannada,Very Good,2.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,English Language,Yes,Yes,No,Yes
+Male,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Maybe,Maybe,Yes,No
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Female,Telugu,Very Good,3.0,After undergraduation,Other,No,English Language,English Language,English Language,Yes,No,Yes,No
+Female,Telugu,Excellent,4.0,Undergraduate,Karnataka,No,English Language,Regional Language,Hybrid Language,Yes,Maybe,Yes,Yes
+Male,Tamil,Very Good,3.0,Undergraduate,Karnataka,No,Hybrid Language,Regional Language,English Language,No,Yes,Maybe,No
+Male,Tamil,Excellent,2.0,Undergraduate,Tamil nadu,Yes,Regional Language,Regional Language,Regional Language,,Yes,Yes,No
+Male,Hindi,Excellent,2.0,Undergraduate,Telangana,No,Hybrid Language,English Language,English Language,No,Maybe,Yes,Maybe
+Female,Telugu,Excellent,2.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,No,No,No,Yes
+Male,Urdu,Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Maybe,Maybe,No,Maybe
+Female,Telugu,Excellent,2.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,No,No,No,Yes
+Male,Hindi,Very Good,2.0,Undergraduate,Uttar pradesh,Yes,Hybrid Language,English Language,English Language,No,No,No,No
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,,Maybe,Maybe,No
+Male,Tamil,Excellent,5.0,After undergraduation,Tamil nadu,Yes,Regional Language,Hybrid Language,Hybrid Language,Yes,Maybe,No,Yes
+Female,Telugu,Excellent,5.0,After undergraduation,Karnataka,Yes,Hybrid Language,English Language,Hybrid Language,Yes,Yes,Yes,Yes
+Male,Telugu,Excellent,3.0,Below undergraduation,Andhra pradesh,No,Hybrid Language,English Language,English Language,Yes,Yes,Yes,No
+Female,Kannada,Very Good,4.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Female,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Male,Telugu,Very Good,2.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,No,No,No,Yes
+Male,Urdu,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,Yes,Maybe
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Yes,Yes
+Female,Telugu,Excellent,4.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,No,No,No,Yes
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Maybe,No,Yes,Maybe
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Female,Telugu,Excellent,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,Hybrid Language,Yes,No,Yes,Yes
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,No
+Female,Telugu,Excellent,4.0,Below undergraduation,Tamil nadu,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Male,Odia,Good,4.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,Maybe,No,No,No
+Female,Telugu,Excellent,5.0,Undergraduate,Tamil nadu,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Konkani,Very Good,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,No,Yes
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Yes,Maybe
+Male,Tamil,Excellent,3.0,Undergraduate,Tamil nadu,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Male,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,No,Yes
+Male,Telugu,Excellent,3.0,After undergraduation,Andhra pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Maybe
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,No,No,Yes,No
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Maybe,Maybe,No,Yes
+Female,Kannada,Excellent,1.0,Below undergraduation,Karnataka,No,Regional Language,English Language,English Language,Yes,No,Maybe,Yes
+Male,Kannada,Very Good,3.0,Below undergraduation,Karnataka,Yes,Regional Language,Regional Language,Regional Language,,Yes,Yes,Yes
+Female,Telugu,Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,English Language,Maybe,No,Maybe,Maybe
+Female,Telugu,Very Good,3.0,Undergraduate,Other,No,English Language,English Language,English Language,Yes,No,No,Maybe
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,No,No,No,Yes
+Female,Telugu,Excellent,4.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,English Language,Yes,Yes,Maybe,Maybe
+Male,Tamil,Excellent,3.0,Undergraduate,Tamil nadu,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,Yes
+Male,Telugu,Good,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Maybe,No
+Male,"Kannada, malayalam",Very Good,4.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,Yes,Maybe
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Yes,Maybe,Yes,No
+Male,Kannada,Excellent,5.0,Undergraduate,Karnataka,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Maybe,No
+Male,Tulu,Good,4.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,No,No,No,Maybe
+Male,Kannada,Very Good,2.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,,Maybe,Maybe,Maybe
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,Hybrid Language,Yes,Yes,No,No
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,No,Yes
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,Yes,Yes,Maybe,No
+Male,Telugu,Good,4.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,No,Yes,No
+Female,Tamil,Excellent,4.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,Yes,No,No,Maybe
+Female,Telugu,Excellent,3.0,Undergraduate,Other,No,Hybrid Language,English Language,Hybrid Language,Yes,Maybe,Yes,Yes
+Female,Telugu,Good,3.0,Below undergraduation,Telangana,No,English Language,English Language,English Language,Yes,No,No,Yes
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Maybe,Maybe
+Female,Konkani,Very Good,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Regional Language,Yes,Yes,Yes,No
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,,No,Maybe,Maybe
+Male,Telugu,Excellent,4.0,Undergraduate,Telangana,No,Hybrid Language,English Language,English Language,Yes,No,No,Yes
+Male,Marwadi,Very Good,4.0,Below undergraduation,Karnataka,Yes,English Language,English Language,English Language,No,No,No,Maybe
+Male,Telugu,Excellent,2.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,English Language,Yes,Yes,Yes,No
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Female,Telugu,Excellent,3.0,After undergraduation,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Female,Telugu,Good,3.0,Below undergraduation,Telangana,Yes,Regional Language,Regional Language,Regional Language,Yes,No,No,Yes
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,Hybrid Language,English Language,English Language,Yes,No,Maybe,No
+Male,Telugu,Very Good,3.0,After undergraduation,Telangana,Yes,English Language,English Language,English Language,Yes,No,No,Maybe
+Female,Hindi,Excellent,2.0,Undergraduate,Uttar pradesh,Yes,Hybrid Language,English Language,English Language,Yes,No,No,No
+Female,Kannada,Very Good,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,No,Maybe
+Male,Telugu,Very Good,3.0,After undergraduation,Karnataka,No,English Language,English Language,English Language,Yes,No,No,Yes
+Female,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Regional Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Yes,No
+Female,Urdu,Excellent,3.0,Undergraduate,Telangana,Yes,English Language,English Language,Hybrid Language,No,No,Maybe,Maybe
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,No,Yes
+Male,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,No,Hybrid Language,English Language,English Language,Yes,No,Yes,No
+Female,Hindi,Very Good,4.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,Hybrid Language,Yes,Yes,Maybe,No
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Yes,Maybe
+Male,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,No,Yes,No,Yes
+Female,Telugu,Very Good,2.0,Undergraduate,Andhra pradesh,Yes,English Language,,English Language,Maybe,No,Maybe,No
+Female,Telugu,Poor,2.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,Yes,Yes,Maybe
+Female,Telugu,Excellent,3.0,After undergraduation,Telangana,Yes,Hybrid Language,Regional Language,Hybrid Language,Maybe,No,No,Maybe
+Female,Kannada,Very Good,3.0,After undergraduation,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,No,Maybe
+Male,Marathi,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,Yes
+Female,Telugu,Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Maybe,No,Yes,Yes
+Male,Tamil,Poor,3.0,Undergraduate,Other,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Yes,No
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Maybe,No,Maybe,No
+Female,Konkani,Excellent,5.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,,No,No,No
+Female,Kannada,Good,2.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,English Language,Yes,Maybe,No,Yes
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,,Maybe,Maybe,No
+Male,Tamil,Excellent,3.0,After undergraduation,Tamil nadu,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,Yes
+Female,Telugu,Very Good,3.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,English Language,Yes,Maybe,No,No
+Female,Kannada,Very Good,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Maybe,No
+Female,Marathi,Very Good,6.0,Undergraduate,Andhra pradesh,No,Hybrid Language,English Language,English Language,Yes,No,Yes,No
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,Yes
+Male,Kannada,Poor,4.0,Undergraduate,Karnataka,Yes,English Language,English Language,Hybrid Language,Yes,No,Yes,No
+Female,Telugu,Very Good,5.0,Undergraduate,Other,No,English Language,English Language,English Language,Yes,Yes,Yes,No
+Male,Kannada,Poor,2.0,Below undergraduation,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,English Language,Yes,Maybe,No,Yes
+Female,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Regional Language,Yes,Yes,Maybe,Maybe
+Male,Telugu,Very Good,3.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Male,Punjabi,Very Good,3.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,No,Maybe,No
+Male,Telugu,Excellent,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,Yes
+Male,Tamil,Very Good,2.0,Undergraduate,Karnataka,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,English Language,Yes,Maybe,Maybe,No
+Male,Telugu,Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,No,No
+Male,Telugu,Very Good,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Maybe,Maybe
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Maybe,Maybe
+Female,Telugu,Excellent,2.0,After undergraduation,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,No,Yes,Yes
+Male,Telugu,Excellent,2.0,Undergraduate,Telangana,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,English Language,,No,Yes,No
+Male,Telugu,Excellent,,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,Yes,Yes,Yes,Yes
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Maybe,No,Yes,Maybe
+Male,Telugu,Very Good,0.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,No,No,No,No
+Male,Kannada,Good,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Yes
+Female,Kannada,Excellent,6.0,After undergraduation,Karnataka,Yes,Hybrid Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Telugu,Very Good,5.0,After undergraduation,Telangana,Yes,English Language,English Language,English Language,Yes,No,No,Yes
+Female,Telugu,Very Good,5.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,,Maybe,Yes,No
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,English Language,English Language,English Language,No,No,Yes,No
+Female,Telugu,Excellent,2.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,No,No,No,Yes
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,Maybe,No,Maybe,Maybe
+Female,Hindi,Excellent,3.0,Undergraduate,Telangana,No,Hybrid Language,English Language,English Language,Yes,No,Yes,Maybe
+Female,Telugu,Very Good,2.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Maybe
+Female,Kannada,Excellent,5.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,Yes,Yes,Yes,Yes
+Prefer not to say,Tamil,Very Good,1.0,Undergraduate,Tamil nadu,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Hybrid Language,Yes,Maybe,Yes,No
+Male,Kannada,Very Good,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Maybe,No
+Male,Telugu,Very Good,5.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,No
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,English Language,Yes,Maybe,No,Maybe
+Male,Kannada,Excellent,3.0,After undergraduation,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,Yes
+Male,Kannada,Excellent,1.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,No
+Male,Tamil,Excellent,4.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,English Language,Yes,Maybe,No,Yes
+Female,Telugu,Good,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Yes,Yes,Yes,Yes
+Male,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,No,Hybrid Language,English Language,English Language,Yes,Yes,Yes,Yes
+Female,Telugu,Good,3.0,After undergraduation,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,Yes
+Female,Telugu,Very Good,3.0,After undergraduation,Other,No,English Language,English Language,English Language,Yes,No,No,Maybe
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,Yes
+Female,Telugu,Good,3.0,Undergraduate,Andhra pradesh,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Yes
+Male,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,No,Yes,Yes
+Female,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Female,Tamil,Excellent,4.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,,Maybe,Yes,No
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Telugu,Very Good,3.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,No,Yes,No
+Female,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,Hybrid Language,Yes,Maybe,No,Yes
+Male,Kannada,Excellent,1.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,,Maybe,Maybe,Maybe
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,English Language,Yes,No,Maybe,Yes
+Female,Telugu,Very Good,3.0,Below undergraduation,Telangana,Yes,Hybrid Language,English Language,English Language,,No,Yes,No
+Male,Telugu,Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Maybe,No,Maybe,Yes
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Maybe,Yes,No
+Female,Hindi,Excellent,3.0,Undergraduate,Uttar pradesh,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,No,Yes
+Female,Urdu,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Male,Kannada,Fair,5.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,No,No,Yes
+Male,Hindi,Good,3.0,Undergraduate,Other,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Male,Telugu,Excellent,,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,No,Yes,No
+Male,Hindi,Excellent,4.0,Undergraduate,Other,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,No,No,No,Yes
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,No,No
+Female,Kannada,Good,3.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,No,Yes,No
+Male,Kannada,Excellent,3.0,After undergraduation,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Yes,No
+Male,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Yes,Maybe
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,English Language,English Language,English Language,Yes,Yes,No,Maybe
+Female,Telugu,Very Good,3.0,Below undergraduation,Karnataka,No,English Language,English Language,English Language,Yes,No,Maybe,No
+Female,Kannada,Good,2.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Female,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,No,Yes,Maybe
+Male,Telugu,Excellent,3.0,Below undergraduation,Telangana,No,Hybrid Language,Hybrid Language,English Language,Yes,Yes,Yes,Yes
+Male,Telugu,Excellent,5.0,After undergraduation,Other,No,Regional Language,Regional Language,Regional Language,No,Yes,Yes,Yes
+Male,Hindi,Very Good,2.0,Undergraduate,Other,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,No,Maybe
+Male,Telugu,Good,3.0,Undergraduate,Telangana,No,English Language,English Language,English Language,No,No,No,Maybe
+Male,Bengali,Very Good,4.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Male,Telugu,Good,5.0,After undergraduation,Karnataka,No,English Language,English Language,English Language,Yes,No,Yes,No
+Male,Tamil,Very Good,4.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,Maybe,Maybe,No
+Female,Marathi,Very Good,4.0,Below undergraduation,Telangana,Yes,English Language,English Language,English Language,Yes,No,No,Maybe
+Male,Tamil,Excellent,5.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Male,Tamil,Excellent,5.0,Undergraduate,Tamil nadu,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Maybe,Maybe
+Female,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,Maybe,No
+Female,Telugu,Good,3.0,After undergraduation,Andhra pradesh,Yes,Hybrid Language,English Language,Hybrid Language,Yes,No,No,Yes
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,No,No
+Male,Tamil,Excellent,5.0,After undergraduation,Tamil nadu,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Female,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Maybe,Maybe
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Yes,No,No,Yes
+Female,Urdu,Fair,2.0,Undergraduate,Other,Yes,English Language,English Language,English Language,Yes,No,Yes,Yes
+Female,Hindi,Good,3.0,Undergraduate,Telangana,No,English Language,Hybrid Language,English Language,Yes,No,No,No
+Male,Kannada,Excellent,2.0,Below undergraduation,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Maybe,No
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Yes,Yes,Yes,No
+Female,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Male,Telugu,Very Good,2.0,After undergraduation,Other,No,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Male,Telugu,Very Good,3.0,After undergraduation,Other,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Maybe,Yes
+Female,Telugu,Excellent,4.0,Undergraduate,Karnataka,Yes,English Language,English Language,Hybrid Language,No,No,No,Maybe
+Female,Telugu,Very Good,2.0,After undergraduation,Andhra pradesh,No,English Language,English Language,English Language,Yes,No,No,No
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,English Language,Yes,Yes,Yes,No
+Female,Kannada,Very Good,3.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,No,Yes
+Female,Telugu,Excellent,4.0,Undergraduate,Andhra pradesh,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Telugu,Very Good,2.0,Below undergraduation,Telangana,Yes,Hybrid Language,English Language,English Language,,No,Yes,Yes
+Female,Kannada,Fair,4.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,No,Yes
+Male,Hindi,Excellent,1.0,After undergraduation,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Male,Tamil,Very Good,3.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,Yes,Maybe
+Female,Kannada,Excellent,3.0,Below undergraduation,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Maybe,No
+Male,Kannada,Excellent,4.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Yes,No
+Female,Kannada,Fair,2.0,Below undergraduation,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Female,Telugu,Excellent,4.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Maybe,No,Maybe,No
+Female,Tamil,Good,4.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,No,No,No,Maybe
+Female,Kannada,Poor,2.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Maybe
+Female,Hindi,Excellent,2.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Maybe
+Male,Konkani,Very Good,4.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,No,Yes
+Male,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,Regional Language,English Language,English Language,Yes,Maybe,Yes,No
+Female,Telugu,Good,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,Yes
+Female,Malayalam,Excellent,4.0,Undergraduate,Other,Yes,Hybrid Language,Hybrid Language,English Language,Yes,No,No,Yes
+Female,Tamil,Excellent,5.0,Undergraduate,Tamil nadu,No,Hybrid Language,Hybrid Language,English Language,No,Maybe,Yes,Yes
+Female,Telugu,Very Good,4.0,Undergraduate,Other,Yes,English Language,Hybrid Language,Hybrid Language,No,Maybe,Yes,Maybe
+Male,Marathi,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Yes
+Male,Telugu,Very Good,5.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,No
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,No,English Language,English Language,English Language,Yes,No,Yes,No
+Female,Kannada,Poor,4.0,Undergraduate,Telangana,No,Hybrid Language,English Language,English Language,No,No,No,Maybe
+Female,Telugu,Excellent,3.0,After undergraduation,Other,No,English Language,English Language,English Language,Yes,No,Yes,No
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Female,Kannada,Excellent,2.0,Undergraduate,Other,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,No,Maybe
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,No,Yes,No
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,Yes
+Female,Hindi,Excellent,3.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,No,No,Yes
+Male,Telugu,Very Good,4.0,Undergraduate,Andhra pradesh,No,Hybrid Language,Hybrid Language,Hybrid Language,Maybe,No,No,Yes
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,Maybe
+Male,Telugu,Excellent,2.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,No
+Male,Telugu,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,No
+Male,Tamil,Fair,2.0,Below undergraduation,Karnataka,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,No,No,No,No
+Female,Telugu,Excellent,4.0,After undergraduation,Andhra pradesh,No,English Language,English Language,English Language,Yes,No,Yes,No
+Female,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,Yes,Yes,Yes
+Male,Kannada,Poor,2.0,Below undergraduation,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Male,Konkani,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,,Yes,No,Yes
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Telugu,Very Good,4.0,Undergraduate,Andhra pradesh,Yes,Regional Language,English Language,English Language,Maybe,Yes,Yes,No
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Telugu,Excellent,1.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,Yes,No,Yes,Yes
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,Yes,Yes,Yes,No
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Hybrid Language,Yes,Yes,Maybe,No
+Female,Telugu,Very Good,3.0,Below undergraduation,Andhra pradesh,No,English Language,English Language,English Language,Yes,No,Yes,Yes
+Female,Hindi,Very Good,2.0,Undergraduate,Uttar pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Maybe,No,No,Maybe
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,No,Maybe,Yes,Maybe
+Female,Telugu,Very Good,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Yes,No
+Male,Tamil,Excellent,4.0,After undergraduation,Telangana,Yes,Hybrid Language,Hybrid Language,English Language,Yes,No,Yes,No
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,No,English Language,English Language,Hybrid Language,Maybe,Maybe,Yes,No
+Male,Malayalam,Good,3.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,No,No,Yes
+Female,Telugu,Good,3.0,Below undergraduation,Andhra pradesh,Yes,English Language,English Language,English Language,Maybe,No,Maybe,Maybe
+Female,Tamil,Excellent,4.0,Undergraduate,Tamil nadu,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Hindi,Very Good,3.0,Undergraduate,Other,Yes,Hybrid Language,English Language,English Language,Maybe,No,Maybe,Maybe
+Male,Telugu,Excellent,3.0,After undergraduation,Telangana,No,Hybrid Language,Hybrid Language,English Language,Yes,Yes,No,No
+Male,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,No,Hybrid Language,English Language,English Language,Maybe,No,Yes,Maybe
+Male,Telugu,Excellent,4.0,Undergraduate,Telangana,No,Hybrid Language,English Language,English Language,Yes,Maybe,Maybe,No
+Female,Telugu,Very Good,3.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Maybe,No
+Male,Telugu,Excellent,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Male,Konkani,Excellent,4.0,Undergraduate,Uttar pradesh,No,Hybrid Language,Hybrid Language,Regional Language,Yes,Yes,No,Yes
+Female,Telugu,Good,2.0,Undergraduate,Other,No,English Language,English Language,English Language,Maybe,No,No,Maybe
+Male,Tamil,Good,3.0,Below undergraduation,Karnataka,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Female,Telugu,Excellent,2.0,Below undergraduation,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,No
+Male,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,No,Maybe,Yes,No
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Hybrid Language,Yes,No,No,Yes
+Female,Telugu,Very Good,3.0,After undergraduation,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,No,Yes
+Female,Telugu,Good,2.0,After undergraduation,Karnataka,Yes,English Language,English Language,English Language,Yes,Maybe,Maybe,Maybe
+Male,Kannada,Very Good,3.0,Undergraduate,Karnataka,No,Regional Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,Maybe
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Maybe,No,Yes,No
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Male,Telugu,Very Good,3.0,After undergraduation,Telangana,No,Hybrid Language,English Language,English Language,Yes,Maybe,Maybe,No
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,Yes,Maybe
+Male,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,No,Regional Language,English Language,English Language,No,Maybe,Yes,No
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,No,Yes
+Male,Telugu,Excellent,3.0,After undergraduation,Telangana,No,English Language,English Language,English Language,Yes,Yes,No,Yes
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Female,Kannada,Excellent,4.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,Maybe,No
+Female,Telugu,Excellent,4.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,No,Yes
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,No,Yes,Yes
+Female,Tamil,Very Good,4.0,Undergraduate,Tamil nadu,Yes,English Language,English Language,English Language,Yes,No,Yes,No
+Male,Tamil,Excellent,3.0,Undergraduate,Tamil nadu,Yes,Hybrid Language,Hybrid Language,Regional Language,Yes,No,Maybe,No
+Male,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Female,Telugu,Good,3.0,Below undergraduation,Telangana,No,English Language,English Language,English Language,Yes,No,Yes,Yes
+Male,Telugu,Excellent,4.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,Hybrid Language,English Language,Maybe,Yes,Yes,Maybe
+Female,Telugu,Excellent,3.0,After undergraduation,Telangana,No,Hybrid Language,English Language,English Language,Yes,No,Maybe,Maybe
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,Regional Language,English Language,English Language,Yes,Yes,Maybe,Yes
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Maybe,Maybe
+Female,Urdu,Excellent,2.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,,No,No,Maybe
+Female,Sanketi,Very Good,4.0,After undergraduation,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,Maybe
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,English Language,English Language,English Language,Yes,Yes,Yes,No
+Male,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,Yes,Regional Language,English Language,English Language,Maybe,Maybe,Maybe,Yes
+Male,Malayalam,Very Good,3.0,After undergraduation,Other,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Female,Malayalam,Very Good,2.0,Undergraduate,Tamil nadu,No,Hybrid Language,English Language,English Language,Yes,Yes,Yes,Maybe
+Male,Telugu,Excellent,4.0,After undergraduation,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Telugu,Excellent,4.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,No,Maybe,Yes,Yes
+Female,Bengali,Excellent,3.0,Undergraduate,Other,No,Hybrid Language,Hybrid Language,English Language,Yes,No,Maybe,Maybe
+Male,Malayalam,Fair,3.0,Undergraduate,Other,No,English Language,English Language,Hybrid Language,Yes,No,No,Yes
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,Yes,No,No,Yes
+Female,Kannada,Excellent,6.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Male,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,No,Yes,Maybe
+Male,Hindi,Excellent,2.0,Undergraduate,Telangana,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Female,Kannada,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,Yes,Yes,Yes
+Female,Telugu,Excellent,2.0,Undergraduate,Telangana,No,Hybrid Language,English Language,English Language,Maybe,No,No,Maybe
+Male,Telugu,Excellent,3.0,After undergraduation,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Female,Telugu,Very Good,5.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,No,Yes
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,No,Maybe,Yes,No
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Maybe,Yes,No
+Female,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,English Language,Yes,No,No,Maybe
+Female,Konkani,Very Good,4.0,After undergraduation,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,No
+Male,Kannada,Excellent,5.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Kannada,Excellent,2.0,Below undergraduation,Karnataka,No,Hybrid Language,English Language,English Language,Yes,Yes,Maybe,Maybe
+Female,Marathi,Very Good,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,English Language,Yes,Yes,No,Yes
+Female,Kannada,Fair,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Yes,No
+Male,Telugu,Very Good,3.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,Hybrid Language,English Language,No,No,No,Yes
+Prefer not to say,Telugu,Very Good,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,English Language,Yes,Maybe,Maybe,Maybe
+Female,Hindi,Excellent,2.0,Undergraduate,Uttar pradesh,Yes,English Language,English Language,English Language,No,No,No,Yes
+Male,Kannada,Excellent,5.0,Undergraduate,Karnataka,Yes,Regional Language,English Language,English Language,Yes,No,Maybe,Maybe
+Female,Telugu,Good,2.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,No,No,Maybe,Yes
+Male,Telugu,Excellent,4.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,Maybe,Yes,Yes
+Male,Telugu,Excellent,3.0,Below undergraduation,Karnataka,No,Hybrid Language,English Language,English Language,Yes,Maybe,No,Maybe
+Male,Kannada,Very Good,3.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,Yes,Yes,Maybe,Maybe
+Female,Kannada,Very Good,4.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,,No,No,Yes
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,Yes
+Female,Telugu,Excellent,5.0,After undergraduation,Telangana,No,Hybrid Language,Hybrid Language,English Language,Yes,No,No,Maybe
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Yes,No,No,Maybe
+Male,Malayalam,Excellent,5.0,Undergraduate,Other,Yes,Hybrid Language,English Language,English Language,Yes,No,Yes,No
+Male,Hindi,Very Good,2.0,Undergraduate,Karnataka,No,Regional Language,English Language,English Language,Yes,Yes,Maybe,Maybe
+Female,Telugu,Excellent,3.0,After undergraduation,Telangana,No,Hybrid Language,Hybrid Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Telugu,Excellent,3.0,After undergraduation,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Female,Telugu,Good,3.0,After undergraduation,Telangana,No,Hybrid Language,English Language,English Language,Yes,No,No,No
+Male,Kannada,Good,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,Hybrid Language,Yes,No,Maybe,Yes
+Male,Kannada,Fair,1.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Male,Telugu,Excellent,1.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Yes,Yes
+Male,Kannada,Excellent,3.0,After undergraduation,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,No,Yes
+Male,Coorgi,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Yes,Maybe
+Female,Kannada,Excellent,7.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,Yes,Maybe,Yes,No
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,No,Maybe,No
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Female,Konkani,Excellent,5.0,Undergraduate,Karnataka,No,Regional Language,English Language,English Language,Yes,Yes,Yes,Yes
+Female,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,English Language,Yes,Yes,Maybe,No
+Male,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Yes,Yes,Maybe,Maybe
+Female,Sindhi,Fair,3.0,Undergraduate,Telangana,No,English Language,English Language,English Language,Maybe,No,No,Yes
+Female,Telugu,Excellent,3.0,After undergraduation,Other,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,No,Maybe
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,Yes,Yes,Yes,Yes
+Female,Telugu,Excellent,2.0,After undergraduation,Andhra pradesh,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,No,Maybe
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,English Language,English Language,English Language,Yes,No,Yes,No
+Female,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Maybe,Yes,Yes,Yes
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,No
+Male,Tamil,Very Good,4.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,No,No,Yes
+Female,Kannada,Excellent,3.0,After undergraduation,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,No,No
+Male,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Yes,Yes
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,Yes,Maybe,No
+Female,Telugu,Very Good,3.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,Yes,Yes,Yes
+Male,Telugu,Excellent,3.0,Undergraduate,Nan,Yes,English Language,English Language,English Language,Yes,Yes,Yes,No
+Female,Hindi,Good,2.0,Undergraduate,Uttar pradesh,No,Hybrid Language,Hybrid Language,Hybrid Language,Maybe,No,No,Maybe
+Male,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Regional Language,Regional Language,Hybrid Language,Yes,Yes,No,Yes
+Male,Kannada,Excellent,3.0,After undergraduation,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Tulu,Very Good,4.0,After undergraduation,Karnataka,No,Hybrid Language,English Language,English Language,,No,No,Maybe
+Male,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,Maybe,Yes,Yes
+Male,Malayalam,Excellent,3.0,Undergraduate,Other,Yes,Hybrid Language,English Language,English Language,,No,Maybe,Yes
+Male,Kannada,Excellent,5.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,,No,Yes,Yes
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,Yes,Yes,No,No
+Female,Telugu,Good,3.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,No,No,No,Yes
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,,Maybe,No,No
+Female,Telugu,Excellent,5.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,No,No,No,Yes
+Male,Telugu,Very Good,3.0,Undergraduate,Andhra pradesh,No,Hybrid Language,Hybrid Language,English Language,Maybe,Maybe,Maybe,Maybe
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,No,No
+Female,Telugu,Excellent,1.0,Undergraduate,Andhra pradesh,No,Hybrid Language,Hybrid Language,English Language,Maybe,Maybe,Maybe,No
+Male,Telugu,Very Good,3.0,Below undergraduation,Telangana,No,English Language,English Language,English Language,Maybe,No,Yes,Yes
+Male,Telugu,Excellent,3.0,Undergraduate,Other,No,Hybrid Language,Hybrid Language,English Language,Yes,No,Yes,Maybe
+Male,Kannada,Excellent,5.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Male,Telugu,Excellent,2.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Maybe,No,No,Maybe
+Female,Telugu,Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Male,Kannada,Very Good,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Female,Telugu,Very Good,3.0,Below undergraduation,Telangana,Yes,English Language,English Language,English Language,Yes,Maybe,No,Yes
+Female,Telugu,Excellent,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,No,No,No,Yes
+Male,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Maybe,Yes,No
+Male,Tamil,Good,2.0,Below undergraduation,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,No,Yes
+Male,Telugu,Excellent,4.0,After undergraduation,Other,No,English Language,English Language,English Language,Maybe,Maybe,No,No
+Male,Telugu,Excellent,2.0,Undergraduate,Telangana,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Maybe
+Male,Odia,Excellent,4.0,Undergraduate,Other,No,Hybrid Language,English Language,Hybrid Language,Yes,No,Yes,No
+Male,Telugu,Excellent,2.0,After undergraduation,Other,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Female,Telugu,Good,2.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Male,Telugu,Excellent,4.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,Yes
+Male,Tamil,Excellent,4.0,Undergraduate,Other,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,Yes
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,Maybe,Maybe,Maybe,Maybe
+Male,Kannada,Excellent,4.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,Yes
+Female,Telugu,Very Good,2.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Yes,No
+Female,Telugu,Good,3.0,Below undergraduation,Telangana,Yes,Hybrid Language,English Language,Hybrid Language,Maybe,Maybe,Maybe,Maybe
+Male,Kannada,Good,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Maybe,Maybe
+Male,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,Yes,Yes,Yes
+Female,Hindi,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,Maybe,Maybe
+Female,Kannada,Very Good,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Female,Kannada,Very Good,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,English Language,No,Yes,Yes,Yes
+Female,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,No,No,Yes,No
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,Regional Language,Regional Language,Hybrid Language,Yes,Yes,Maybe,Maybe
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,No,No,No,Yes
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,No,Maybe,Yes,No
+Male,Telugu,Excellent,1.0,Undergraduate,Andhra pradesh,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Telugu,Excellent,2.0,Below undergraduation,Telangana,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Marathi,Good,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,Maybe
+Male,Telugu,Very Good,4.0,Undergraduate,Telangana,No,English Language,English Language,English Language,Maybe,No,No,Yes
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,Yes,No
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Yes
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Yes,Yes,No,No
+Female,Kannada,Excellent,5.0,Undergraduate,Karnataka,Yes,Regional Language,Hybrid Language,Hybrid Language,No,Yes,Yes,Yes
+Male,Kannada,Very Good,4.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,No,Maybe,Maybe
+Female,Telugu,Excellent,8.0,Undergraduate,Karnataka,Yes,English Language,Hybrid Language,English Language,Yes,No,Maybe,Maybe
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,Maybe
+Male,Kannada,Very Good,3.0,Undergraduate,Karnataka,Yes,English Language,English Language,Hybrid Language,Yes,Maybe,Yes,Yes
+Male,Urdu,Excellent,5.0,Below undergraduation,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Yes,No
+Male,Telugu,Excellent,2.0,Undergraduate,Telangana,No,Regional Language,Regional Language,Regional Language,No,Yes,Yes,No
+Female,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,No,Yes,Maybe
+Male,Telugu,Excellent,2.0,Undergraduate,Telangana,No,English Language,English Language,English Language,Yes,No,Yes,No
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,Yes,No,Yes
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,,Maybe,No,Yes
+Male,Telugu,Excellent,3.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,No,No,No,Yes
+Male,Tamil,Fair,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Yes,Yes
+Female,Tamil,Good,5.0,Undergraduate,Tamil nadu,Yes,English Language,English Language,English Language,Yes,No,Yes,Yes
+Female,Telugu,Good,2.0,Below undergraduation,Andhra pradesh,No,Hybrid Language,Hybrid Language,Hybrid Language,No,No,No,Yes
+Female,Tamil,Good,3.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,No,No,Maybe
+Female,Telugu,Excellent,7.0,Undergraduate,Karnataka,Yes,Regional Language,Hybrid Language,English Language,Yes,Yes,Yes,Maybe
+Female,Telugu,Very Good,2.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,Yes,No,Maybe,No
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,No
+Female,Marathi,Good,4.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Male,Tamil,Fair,4.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,No,Yes,No
+Male,Kannada,Excellent,1.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,Hybrid Language,Yes,Yes,Maybe,Yes
+Male,Telugu,Poor,3.0,After undergraduation,Andhra pradesh,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Telugu,Good,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,No
+Female,Bengali,Excellent,3.0,Undergraduate,Other,No,Hybrid Language,English Language,English Language,Yes,No,Maybe,Maybe
+Male,Telugu,Excellent,3.0,Below undergraduation,Andhra pradesh,No,Hybrid Language,English Language,English Language,Yes,Yes,No,Yes
+Male,Kannada,Excellent,1.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Hybrid Language,,Maybe,Maybe,No
+Male,Kannada,Excellent,5.0,After undergraduation,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Maybe,No,No,Yes
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,No,Hybrid Language,English Language,English Language,Yes,No,No,Yes
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Male,Tulu,Very Good,3.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,Yes,Maybe,Maybe,Yes
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,No,Maybe
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Yes,Yes
+Female,Telugu,Excellent,3.0,After undergraduation,Andhra pradesh,No,Hybrid Language,Hybrid Language,English Language,Maybe,No,Yes,No
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,No,No,Yes,No
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Female,Telugu,Excellent,2.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,No,Yes,No
+Female,Kannada,Very Good,3.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,Maybe,Maybe,Yes
+Male,Telugu,Excellent,4.0,After undergraduation,Telangana,No,Hybrid Language,English Language,English Language,,No,Yes,Maybe
+Male,Telugu,Excellent,5.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,Regional Language,English Language,Yes,Yes,Yes,No
+Male,Telugu,Very Good,3.0,After undergraduation,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Male,Gujarati,Excellent,3.0,Undergraduate,Tamil nadu,No,English Language,English Language,English Language,Yes,Maybe,No,No
+Male,Malayalam,Very Good,5.0,Undergraduate,Other,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,No
+Male,Kannada,Excellent,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Yes
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,English Language,Yes,Maybe,Yes,Yes
+Male,Kannada,Very Good,2.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,Yes,No,Maybe,Yes
+Male,Kannada,Excellent,4.0,Below undergraduation,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,No
+Male,Telugu,Good,7.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,Yes,No,No,Yes
+Female,Tamil,Excellent,3.0,Undergraduate,Tamil nadu,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,Yes
+Female,Telugu,Very Good,3.0,Undergraduate,Other,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,Yes
+Male,Tamil,Very Good,5.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,No,Yes,Yes,No
+Female,Telugu,Excellent,6.0,After undergraduation,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,No,Yes
+Female,Telugu,Excellent,3.0,After undergraduation,Andhra pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Maybe
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,Maybe,Maybe,No
+Male,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,No,Hybrid Language,Hybrid Language,English Language,Yes,Maybe,Yes,Maybe
+Female,Kannada,Very Good,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,No
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Male,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Kannada,Very Good,6.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Male,Sanskrit,Excellent,14.0,After undergraduation,Uttar pradesh,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Maybe
+Female,Telugu,Excellent,2.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Yes,No
+Male,Tamil,Very Good,2.0,Undergraduate,Tamil nadu,No,English Language,English Language,English Language,Yes,No,No,No
+Female,Hindi,Excellent,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,No,No
+Female,Hindi,Very Good,6.0,Undergraduate,Tamil nadu,Yes,Hybrid Language,Regional Language,Hybrid Language,No,No,No,Yes
+Male,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,Yes,No,Maybe,No
+Male,Telugu,Good,3.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,Maybe,Maybe
+Male,Telugu,Excellent,4.0,After undergraduation,Andhra pradesh,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Male,Kannada,Excellent,,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Yes,Maybe
+Male,Kannada,Very Good,5.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,Yes,No,No,Yes
+Male,Urdu,Excellent,4.0,Undergraduate,Telangana,No,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Male,Telugu,Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,No
+Male,Kannada,Excellent,5.0,Undergraduate,Karnataka,Yes,Regional Language,English Language,English Language,,Maybe,No,Maybe
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,No,No
+Female,Hindi,Excellent,3.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,No,Maybe,Maybe
+Male,Telugu,Excellent,4.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Yes,No
+Female,Telugu,Good,3.0,Undergraduate,Telangana,Yes,Regional Language,English Language,English Language,Yes,Yes,Yes,No
+Male,Malayalam,Excellent,3.0,Undergraduate,Tamil nadu,No,English Language,English Language,English Language,Yes,No,No,Yes
+Female,Kannada,Very Good,4.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Male,Hindi,Excellent,3.0,Undergraduate,Uttar pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Maybe,Yes,Yes,Maybe
+Male,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,English Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Urdu,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Prefer not to say,Bengali,Fair,2.0,Undergraduate,Other,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Maybe,No
+Prefer not to say,Kannada,Very Good,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,English Language,,Maybe,No,Maybe
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Female,Kannada,Excellent,6.0,Below undergraduation,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,No,No,Yes,No
+Male,Telugu,Good,3.0,Undergraduate,Telangana,No,English Language,English Language,English Language,Yes,No,No,Maybe
+Female,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Maybe,Yes,Yes
+Male,Malayalam,Excellent,3.0,Below undergraduation,Other,No,Hybrid Language,English Language,English Language,No,No,No,No
+Female,Telugu,Good,3.0,After undergraduation,Other,No,Hybrid Language,English Language,English Language,Maybe,No,No,No
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,Hybrid Language,English Language,English Language,Yes,No,Maybe,No
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,No,Hybrid Language,English Language,English Language,No,Yes,Yes,Yes
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Maybe,Yes,No
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,Hybrid Language,No,No,No,Yes
+Male,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Yes
+Female,Telugu,Good,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Maybe,No,No,Maybe
+Male,Hindi,Excellent,2.0,Undergraduate,Uttar pradesh,No,Hybrid Language,Hybrid Language,Hybrid Language,Maybe,Maybe,Maybe,Maybe
+Male,Telugu,Excellent,4.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,No
+Male,Hindi,Very Good,3.0,Undergraduate,Uttar pradesh,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,No,Yes
+Female,Kannada,Excellent,1.0,After undergraduation,Other,Yes,Regional Language,Regional Language,Hybrid Language,No,Yes,Yes,No
+Female,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,,Maybe,Yes,No
+Female,Telugu,Excellent,2.0,Undergraduate,Telangana,No,English Language,English Language,English Language,Yes,No,No,No
+Female,Telugu,Good,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,Yes,Yes,No
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,No,No,No
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,Yes,No,Maybe,Maybe
+Female,Telugu,Very Good,3.0,Below undergraduation,Telangana,Yes,English Language,English Language,English Language,Yes,Maybe,Maybe,Yes
+Female,Gujarati,Very Good,4.0,After undergraduation,Telangana,Yes,English Language,English Language,English Language,Yes,No,No,Yes
+Female,Telugu,Excellent,5.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,Yes,Maybe,Maybe,Maybe
+Male,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Yes,No
+Female,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,Yes
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,No
+Male,Tamil,Very Good,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,No,Yes
+Female,Kannada,Very Good,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,No
+Female,Kannada,Good,3.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,,No,No,No
+Female,Kannada,Very Good,4.0,After undergraduation,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,Maybe,Yes,No
+Female,Telugu,Very Good,2.0,Below undergraduation,Telangana,No,Hybrid Language,Hybrid Language,English Language,Yes,Yes,Maybe,No
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,,Yes,Yes,Yes
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,English Language,English Language,English Language,Yes,Yes,Yes,Yes
+Male,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,Yes
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Telugu,Very Good,3.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,No,No,No,Yes
+Male,Telugu,Excellent,3.0,After undergraduation,Other,No,Hybrid Language,English Language,English Language,Yes,No,Yes,No
+Female,Telugu,Good,3.0,Undergraduate,Telangana,No,Hybrid Language,English Language,English Language,Maybe,No,No,Yes
+Female,Telugu,Good,2.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Maybe,No,No,Maybe
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Male,Telugu,Very Good,3.0,Undergraduate,Andhra pradesh,Yes,English Language,English Language,English Language,Maybe,No,Maybe,No
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,Hybrid Language,English Language,English Language,Yes,Maybe,Yes,No
+Female,Telugu,Excellent,2.0,Undergraduate,Tamil nadu,Yes,Regional Language,Hybrid Language,English Language,Yes,No,Maybe,No
+Male,Telugu,Excellent,1.0,Undergraduate,Andhra pradesh,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Kannada,Excellent,5.0,Undergraduate,Karnataka,No,Regional Language,Regional Language,Hybrid Language,Yes,No,Yes,No
+Female,Hindi,Excellent,3.0,After undergraduation,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,No,Maybe,No
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,,No,No,Yes
+Male,Hindi,Very Good,1.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,No,No,No,Yes
+Female,Telugu,Very Good,2.0,Undergraduate,Andhra pradesh,No,Hybrid Language,English Language,English Language,Maybe,No,Maybe,No
+Male,Telugu,Good,3.0,After undergraduation,Other,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,No
+Female,Telugu,Very Good,2.0,After undergraduation,Andhra pradesh,Yes,Regional Language,English Language,English Language,,No,No,Maybe
+Female,Urdu,Good,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,No,No
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,Maybe,Yes,Yes
+Male,Telugu,Very Good,4.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,Hybrid Language,Yes,Yes,Yes,No
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,No
+Male,Telugu,Excellent,3.0,Below undergraduation,Andhra pradesh,Yes,English Language,English Language,English Language,Yes,No,Yes,Yes
+Male,Tamil,Poor,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,No,No,No,No
+Male,Hindi,Excellent,2.0,Undergraduate,Telangana,No,English Language,English Language,English Language,,Maybe,Maybe,No
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,Hybrid Language,English Language,English Language,Yes,Maybe,Yes,Yes
+Female,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Female,Telugu,Very Good,5.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,Yes,No,Yes,Yes
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,No,No,Yes,No
+Female,Telugu,Very Good,5.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,No,No,No,Yes
+Female,Telugu,Excellent,2.0,Undergraduate,Telangana,Yes,Regional Language,English Language,English Language,Yes,Yes,Yes,No
+Male,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Female,Telugu,Good,2.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,No,Maybe,Maybe
+Female,Hindi,Very Good,2.0,After undergraduation,Uttar pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,No
+Female,Telugu,Excellent,4.0,Undergraduate,Karnataka,No,Regional Language,English Language,English Language,Yes,Maybe,No,Yes
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Maybe,No
+Female,Telugu,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,English Language,Yes,No,No,Maybe
+Female,Telugu,Very Good,3.0,After undergraduation,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,No,Yes
+Male,Telugu,Excellent,3.0,After undergraduation,Telangana,No,Hybrid Language,English Language,Hybrid Language,Yes,No,No,No
+Female,Gujrati,Very Good,4.0,Undergraduate,Telangana,No,Hybrid Language,English Language,English Language,Yes,No,No,No
+Male,Telugu,Excellent,3.0,After undergraduation,Other,No,Hybrid Language,English Language,English Language,Maybe,No,Yes,Yes
+Male,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,Regional Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Female,Telugu,Very Good,3.0,After undergraduation,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,No,Yes,No
+Male,Hindi,Very Good,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,No,No,No,Yes
+Female,Kannada,Excellent,3.0,After undergraduation,Karnataka,No,English Language,English Language,English Language,No,No,No,Yes
+Male,Telugu,Excellent,1.0,Nan,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,,Maybe
+Male,Kannada,Fair,4.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Yes,No
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Telugu,Excellent,5.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,No
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,Yes
+Male,Telugu,Excellent,3.0,After undergraduation,Telangana,No,Hybrid Language,Hybrid Language,English Language,Yes,Yes,Yes,No
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,No,No,Yes,No
+Female,Telugu,Very Good,2.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,No,No,No
+Female,Tamil,Excellent,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Yes,No
+Male,Kannada,Very Good,4.0,After undergraduation,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,No
+Female,Kannada,Excellent,4.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Female,Telugu,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,No
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,English Language,English Language,English Language,No,No,Maybe,Maybe
+Female,Telugu,Very Good,3.0,Undergraduate,Andhra pradesh,No,English Language,English Language,English Language,No,No,Yes,No
+Male,Kannada,Very Good,2.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,Yes,No,Maybe,Maybe
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,Yes,No,Maybe
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Maybe,Yes
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Yes,Yes
+Male,Tamil,Very Good,4.0,Undergraduate,Tamil nadu,Yes,Hybrid Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Female,Telugu,Excellent,2.0,Undergraduate,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Male,Telugu,Excellent,3.0,Below undergraduation,Telangana,Yes,English Language,English Language,English Language,Yes,Yes,Yes,Yes
+Male,Telugu,Excellent,3.0,Undergraduate,Andhra pradesh,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Telugu,Excellent,4.0,Undergraduate,Telangana,No,Hybrid Language,Hybrid Language,Hybrid Language,No,No,No,Yes
+Female,Telugu,Excellent,2.0,After undergraduation,Andhra pradesh,No,Hybrid Language,English Language,English Language,Yes,No,Yes,No
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Male,Telugu,Excellent,1.0,Below undergraduation,Andhra pradesh,Yes,Hybrid Language,English Language,English Language,Maybe,Yes,Yes,Yes
+Male,Hindi,Very Good,5.0,Below undergraduation,Karnataka,No,English Language,Hybrid Language,Regional Language,,No,Yes,No
+Male,Kannada,Excellent,5.0,After undergraduation,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Male,Kannada,Very Good,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,English Language,Yes,Yes,Maybe,Maybe
+Female,Hindi,Excellent,2.0,After undergraduation,Uttar pradesh,Yes,Hybrid Language,English Language,Hybrid Language,Yes,No,No,Maybe
+Female,Telugu,Excellent,4.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Female,Telugu,Very Good,5.0,Below undergraduation,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Yes,Yes
+Female,Tamil,Good,4.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,,No,No,Yes
+Male,Telugu,Excellent,2.0,Undergraduate,Other,No,English Language,English Language,English Language,Yes,Yes,Maybe,Maybe
+Male,Kannada,Excellent,2.0,After undergraduation,Karnataka,No,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Malayalam,Excellent,5.0,Undergraduate,Other,Yes,Hybrid Language,Hybrid Language,Hybrid Language,,No,No,No
+Male,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Regional Language,Hybrid Language,Hybrid Language,Yes,Maybe,Maybe,Maybe
+Female,Telugu,Good,4.0,Undergraduate,Telangana,No,Hybrid Language,English Language,English Language,Maybe,Maybe,Maybe,No
+Female,Telugu,Excellent,2.0,Undergraduate,Telangana,No,English Language,English Language,English Language,No,No,No,Yes
+Male,Telugu,Poor,3.0,Undergraduate,Telangana,No,English Language,English Language,English Language,Yes,Yes,Yes,Yes
+Male,Telugu,Excellent,3.0,After undergraduation,Andhra pradesh,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,No,Yes
+Female,Telugu,Excellent,3.0,Undergraduate,Telangana,No,English Language,English Language,English Language,No,No,No,Yes
+Female,Telugu,Excellent,1.0,Undergraduate,Telangana,No,Regional Language,Regional Language,Regional Language,Yes,No,Yes,Maybe
+Male,Telugu,Excellent,5.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,,No,Yes,Maybe
+Male,Kannada,Excellent,3.0,Undergraduate,Uttar pradesh,Yes,Hybrid Language,Regional Language,Regional Language,Yes,Yes,Yes,No
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Maybe,No
+Male,Urdu/hindi,Excellent,3.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,No,No,Yes,No
+Female,Telugu,Very Good,3.0,Undergraduate,Other,No,English Language,English Language,English Language,Yes,No,Yes,No
+Female,Kannada,Excellent,3.0,Undergraduate,Karnataka,No,Hybrid Language,Hybrid Language,Hybrid Language,Yes,No,Maybe,Yes
+Female,Telugu,Excellent,3.0,After undergraduation,Telangana,Yes,English Language,English Language,English Language,Yes,Yes,Yes,No
+Male,Telugu,Excellent,3.0,Undergraduate,Tamil nadu,No,English Language,English Language,English Language,Yes,Yes,Yes,Yes
+Female,Telugu,Good,5.0,Undergraduate,Karnataka,Yes,Hybrid Language,English Language,English Language,Yes,No,No,Maybe
+Female,Kannada,Excellent,2.0,Undergraduate,Karnataka,No,English Language,English Language,English Language,No,Yes,Yes,Yes
+Female,Hindi,Very Good,2.0,Undergraduate,Other,No,English Language,English Language,English Language,Yes,Yes,Yes,No
+Female,Telugu,Excellent,2.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,Yes,Yes,No
+Male,Hindi,Excellent,2.0,Below undergraduation,Other,Yes,English Language,English Language,English Language,Maybe,No,No,Yes
+Female,Telugu,Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,English Language,English Language,Yes,Maybe,Yes,Yes
+Male,Urdu,Excellent,3.0,After undergraduation,Telangana,Yes,English Language,English Language,English Language,Yes,Yes,No,No
+Male,Telugu,Very Good,3.0,Undergraduate,Telangana,No,Hybrid Language,English Language,English Language,Yes,Yes,No,No
+Male,Tamil,Excellent,4.0,Undergraduate,Tamil nadu,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Female,Telugu,Very Good,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,Yes,Yes,Yes,Yes
+Female,Hindi,Very Good,2.0,Undergraduate,Uttar pradesh,Yes,English Language,English Language,English Language,Yes,No,No,Maybe
+Male,Kannada,Excellent,4.0,Undergraduate,Karnataka,Yes,Regional Language,Regional Language,Regional Language,Yes,Yes,Yes,Yes
+Female,Kannada,Excellent,5.0,Undergraduate,Karnataka,Yes,English Language,English Language,English Language,,Maybe,Maybe,Maybe
+Male,Telugu,Excellent,3.0,Undergraduate,Telangana,Yes,Hybrid Language,Hybrid Language,Hybrid Language,No,No,No,Yes
